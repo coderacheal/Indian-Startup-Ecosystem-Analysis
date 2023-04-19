@@ -66,9 +66,7 @@ To get a local copy up and running, follow these steps.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[ Failed to reject the null hypothesis ]**
-- [ ] **[ Answers questions about based on the data set ]**
-- [ ] **[ Display graphs ]**
+- [ ] **[ Visualize graphs to answered questions]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
