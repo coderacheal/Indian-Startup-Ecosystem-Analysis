@@ -48,9 +48,12 @@ To get a local copy up and running, follow these steps.
 ### Setup
 
 ```Clone this repository to your desired folder:
- https://github.com/coderacheal/Indian-Startup-Ecosystem-DS-Project.git
- 
+
  Example command:
+ 
+  git clone https://github.com/coderacheal/Indian-Startup-Ecosystem-DS-Project.git
+ 
+ Change into that directory
 
   cd my-folder Indian-Startup-Ecosystem-DS-Project.git
 ```
