@@ -55,7 +55,7 @@ To get a local copy up and running, follow these steps.
  
  Change into that directory
 
-  cd my-folder Indian-Startup-Ecosystem-DS-Project.git
+  cd acheal/Indian-Startup-Ecosystem-Data-Science.git
 ```
 
 ## 👥 Author <a name="authors"></a>
