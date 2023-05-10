@@ -62,7 +62,7 @@ To get a local copy up and running, follow these steps.
 
 
 - GitHub: [@coderacheal](https://github.com/coderacheal)
-- LinkedIn: [racheal-appiah-kubi-a230b7173/](https://www.linkedin.com/in/racheal-appiah-kubi-a230b7173/)
+- LinkedIn: [Racheal Appiah-kubi](https://www.linkedin.com/in/racheal-appiah-kubi-a230b7173/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
