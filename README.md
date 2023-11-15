@@ -27,11 +27,13 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 [The Indian start-up Ecosystem] <a name="about-project"></a>
+# 📖 The Indian start-up Ecosystem <a name="about-project"></a>
 This is a project on the Indian startup ecosystem.
 
 ### Tech Stack <a name="tech-stack"></a>
  - Python
+ - Matplotlib
+ - Seaborn
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
